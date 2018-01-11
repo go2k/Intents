@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Intents</string>
-    <string name="btnsenden">Senden</string>
+    <string name="btnSenden">Senden</string>
     <string name="etName">Name</string>
+    <string name="btnZurueck">Zurück</string>
 
 </resources>

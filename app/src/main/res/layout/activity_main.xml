@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/etName"
         android:layout_toEndOf="@+id/etName"
-        android:text="@string/btnsenden" />
+        android:text="@string/btnSenden" />
 
 
 </RelativeLayout>
